@@ -1,0 +1,10 @@
+.arrow {
+    height: 60px;
+    width: 60px;
+
+    transition: 0.1s;
+    &:hover {
+        height: 66px;
+        width: 66px;
+    }
+}
